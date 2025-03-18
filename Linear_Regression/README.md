@@ -1,0 +1,1 @@
+This folder consists Simple Regression implemented using scikit learn. I have also implemented the way scikit learn adjusts the value of m and b to find the best fit line using the ordinary least square method
